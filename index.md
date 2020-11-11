@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+<img src="https://avatars2.githubusercontent.com/u/17456882?s=400&u=965683c5ebb767e62e36eaca2fd33b678fcf891c&v=4"/>
 
-You can use the [editor on GitHub](https://github.com/atieh-farokhi/resume.Fa/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h1> درباره ی من</h1>
+  <p> عطیه فرخی , متولد 24 آذر 1377 , مجرد , دانشجوی ترم ششم مهندسی کامپیوتر در دانشگاه پیام نور واحد ری واقع در شهر تهران هستم و علاقه شدیدی به امنیت شبکه و برنامه نویسی
+دارم, در حال حاضردر موسسه راهگشا مشغول بکار هستم**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+.</p>
+  
+  <ul>
+    <h3> مشخصات فردی</h3>
+  <li>نام:عطیه</li>
+  <li>نام خانوادگے: فرخی</li>
+  <li>وضعیت تاهل: مجرد</li>
+  <li>تاریخ تولد: 1377/09/24 </li>
+</ul>
 
-### Markdown
+  
+<h1>مهارت ها</h1>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<ul>
+  <li>+ Icdl 1&2</li>
+  <li>C+</li>
+<li>C++</li>
+  <li>C#</li>
+<li>HTML</li>
+</ul>
 
-```markdown
-Syntax highlighted code block
+<h1> مدرک ها</h1>
+<ul>
+  <li>ICDL1</li>
+  <li>JavaScript</li>
+</ul>
 
-# Header 1
-## Header 2
-### Header 3
+<h1> زبان ها</h1>
+<ul>
+  <li>فارسی</li>
+   <li>انگلیسی</li>
+  <li>ترکی استانبولی</li>
+   <li>عربی</li>
+</ul>
 
-- Bulleted
-- List
+<h1> سوابق تحصیلی </h1>
+<ul>
+   <li> دیپلم رشته‌ی ریاضے و فیزیک /li>
+   <li> دانشجوی ڪارشناسی رشته ی مهندسی ڪامپیوتر در دانشگاه پیام نور ری و در حال تحصیل</li>
+</ul>
 
-1. Numbered
-2. List
+<br/>
 
-**Bold** and _Italic_ and `Code` text
+<h1> سایر حساب های ڪاربری </h1>
+<ul>
+[GitHub](https://github.com/atieh-farokhi) \ [instagram](https://instagram.com/atieh_frokhi) \ [twitter](https://twitter.com/atieh_frokhi) \ [email](https://fha_atie@yahoo.com (https://fha_atie@yahoo.com/)) \ [telegram](https://telegram.com/atieh_frokhi)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/atieh-farokhi/resume.Fa/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  <li>رزومه ی انگلیسی: <a href="https://atieh-farokhi.github.io/resume.EN/"> رزومه </a></li>
+</ul>
