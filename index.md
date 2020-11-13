@@ -1,3 +1,4 @@
+# resume.Fa
 <img src="https://avatars2.githubusercontent.com/u/17456882?s=400&u=965683c5ebb767e62e36eaca2fd33b678fcf891c&v=4"/>
 
 <h1> درباره ی من</h1>
@@ -41,15 +42,25 @@
 
 <h1> سوابق تحصیلی </h1>
 <ul>
-   <li> دیپلم رشته‌ی ریاضے و فیزیک /li>
+   <li> دیپلم رشته‌ی ریاضے و فیزیک </li>
    <li> دانشجوی ڪارشناسی رشته ی مهندسی ڪامپیوتر در دانشگاه پیام نور ری و در حال تحصیل</li>
-</ul>
 
 <br/>
 
 <h1> سایر حساب های ڪاربری </h1>
 <ul>
-[GitHub](https://github.com/atieh-farokhi) \ [instagram](https://instagram.com/atieh_frokhi) \ [twitter](https://twitter.com/atieh_frokhi) \ [email](https://fha_atie@yahoo.com (https://fha_atie@yahoo.com/)) \ [telegram](https://telegram.com/atieh_frokhi)
+  
+  
+   - Imail:  <a href="https://fha_atie@yahoo.com">Imail</a>
+   
+   - تلگرام:  <a href="https://telegram.com/atieh_frokhi">My Telegram</a>
+
+   - کوئرا:  <a href="https://quera.ir/profile/fha_atie">My Profile</a>
+  
+   - اینستاگرام : <a href="https://instagram.com/atieh_frokhi">My Instagram</a> 
+  
+   - توییتر: <a href="https://twitter.com/atieh_frokhi">MyTwitter</a>
+   
 
   <li>رزومه ی انگلیسی: <a href="https://atieh-farokhi.github.io/resume.EN/"> رزومه </a></li>
 </ul>
