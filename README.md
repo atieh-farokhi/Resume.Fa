@@ -57,7 +57,9 @@
 
    - کوئرا: <a href="https://quera.ir/profile/fha_atie">My Profile</a>
   
-  اینستاگرام : <a href="https://instagram.com/atieh_frokhi">   
+  اینستاگرام : <a href="https://instagram.com/atieh_frokhi">  
+  
+  \
   توییتر: <a href="https://twitter.com/atieh_frokhi"> 
 
   <li>رزومه ی انگلیسی: <a href="https://atieh-farokhi.github.io/resume.EN/"> رزومه </a></li>
