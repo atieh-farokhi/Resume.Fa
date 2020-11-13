@@ -51,16 +51,16 @@
 <ul>
   
   
-   -Imail:  <a href="https://fha_atie@yahoo.com (https://fha_atie@yahoo.com/)"></a>
+   - Imail:  <a href="https://fha_atie@yahoo.com">Imail</a>
    
-   - تلگرام:  <a href="https://telegram.com/atieh_frokhi"></a>
+   - تلگرام:  <a href="https://telegram.com/atieh_frokhi">My Telegram</a>
 
    - کوئرا:  <a href="https://quera.ir/profile/fha_atie">My Profile</a>
   
-   - اینستاگرام : <a href="https://instagram.com/atieh_frokhi"></a> 
+   - اینستاگرام : <a href="https://instagram.com/atieh_frokhi">My Instagram</a> 
   
  
-   -توییتر: <a href="https://twitter.com/atieh_frokhi"></a>
+   -توییتر: <a href="https://twitter.com/atieh_frokhi">توییتر</a>
    
 
   <li>رزومه ی انگلیسی: <a href="https://atieh-farokhi.github.io/resume.EN/"> رزومه </a></li>
