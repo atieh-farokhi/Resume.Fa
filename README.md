@@ -50,7 +50,8 @@
 
 <h1> سایر حساب های ڪاربری </h1>
 <ul>
-[GitHub](https://github.com/atieh-farokhi) \ [instagram](https://instagram.com/atieh_frokhi) \ [twitter](https://twitter.com/atieh_frokhi) \ [email](https://fha_atie@yahoo.com (https://fha_atie@yahoo.com/)) \ [telegram](https://telegram.com/atieh_frokhi)
+  - گیت هاب: (https://github.com/atieh-farokhi) 
+  \ [instagram](https://instagram.com/atieh_frokhi) \ [twitter](https://twitter.com/atieh_frokhi) \ [email](https://fha_atie@yahoo.com (https://fha_atie@yahoo.com/)) \ [telegram](https://telegram.com/atieh_frokhi)
 
   <li>رزومه ی انگلیسی: <a href="https://atieh-farokhi.github.io/resume.EN/"> رزومه </a></li>
 </ul>
