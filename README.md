@@ -59,8 +59,7 @@
   
    - اینستاگرام : <a href="https://instagram.com/atieh_frokhi">My Instagram</a> 
   
- 
-   -توییتر: <a href="https://twitter.com/atieh_frokhi">توییتر</a>
+   - توییتر: <a href="https://twitter.com/atieh_frokhi">MyTwitter</a>
    
 
   <li>رزومه ی انگلیسی: <a href="https://atieh-farokhi.github.io/resume.EN/"> رزومه </a></li>
