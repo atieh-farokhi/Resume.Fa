@@ -42,16 +42,23 @@
 
 <h1> سوابق تحصیلی </h1>
 <ul>
-   <li> دیپلم رشته‌ی ریاضے و فیزیک /li>
+   <li> دیپلم رشته‌ی ریاضے و فیزیک </li>
    <li> دانشجوی ڪارشناسی رشته ی مهندسی ڪامپیوتر در دانشگاه پیام نور ری و در حال تحصیل</li>
-</ul>
 
 <br/>
 
 <h1> سایر حساب های ڪاربری </h1>
 <ul>
-  - گیت هاب: (https://github.com/atieh-farokhi) 
-  \ [instagram](https://instagram.com/atieh_frokhi) \ [twitter](https://twitter.com/atieh_frokhi) \ [email](https://fha_atie@yahoo.com (https://fha_atie@yahoo.com/)) \ [telegram](https://telegram.com/atieh_frokhi)
+  
+  
+   -Imail:<a href="https://fha_atie@yahoo.com (https://fha_atie@yahoo.com/)">
+   
+   - تلگرام: <a href="https://telegram.com/atieh_frokhi">
+
+   - کوئرا: <a href="https://quera.ir/profile/fha_atie">My Profile</a>
+  
+  اینستاگرام : <a href="https://instagram.com/atieh_frokhi">   
+  توییتر: <a href="https://twitter.com/atieh_frokhi"> 
 
   <li>رزومه ی انگلیسی: <a href="https://atieh-farokhi.github.io/resume.EN/"> رزومه </a></li>
 </ul>
